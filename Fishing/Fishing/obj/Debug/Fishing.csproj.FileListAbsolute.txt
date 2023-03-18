@@ -1,0 +1,13 @@
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.csproj.AssemblyReference.cache
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.csproj.SuggestedBindingRedirects.cache
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.Input.resources
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.Products.resources
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.Properties.Resources.resources
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.csproj.GenerateResource.cache
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+C:\DDD\Vusial\Fishing\Fishing\bin\Debug\Fishing.exe.config
+C:\DDD\Vusial\Fishing\Fishing\bin\Debug\Fishing.exe
+C:\DDD\Vusial\Fishing\Fishing\bin\Debug\Fishing.pdb
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.exe
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.pdb
+C:\DDD\Vusial\Fishing\Fishing\obj\Debug\Fishing.Dobavlen.resources
